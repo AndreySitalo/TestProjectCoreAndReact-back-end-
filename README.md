@@ -4,5 +4,5 @@
 Перейти в консоли в проект Orders.DB 
 Выполнить ADD-MIGRATION initial-1
 ## Создать базу
-Выполнить ADD-MIGRATION initial-1
+Выполнить UPDATE-DATABASE
 
