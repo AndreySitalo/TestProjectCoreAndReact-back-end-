@@ -17,7 +17,7 @@ namespace Orders.DB
                 context.Cities.Add(new City() { Name = "Санкт-Петербург" });
                 context.Cities.Add(new City() { Name = "Белово" });
                 context.Cities.Add(new City() { Name = "Москва" });
-                context.Cities.Add(new City() { Name = "Анхангельск" }); /// ЫЫЫЫЫЫЫЫ
+                context.Cities.Add(new City() { Name = "Архангельск" });
                 context.Cities.Add(new City() { Name = "Тверь" });
                 context.Cities.Add(new City() { Name = "Пенза" });
                 context.SaveChanges();
