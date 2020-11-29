@@ -1,0 +1,12 @@
+C:\Users\Andrey\source\repos\Deliveries.WebApi\Orders.Core\bin\Debug\netstandard2.0\Orders.Core.deps.json
+C:\Users\Andrey\source\repos\Deliveries.WebApi\Orders.Core\bin\Debug\netstandard2.0\Orders.Core.dll
+C:\Users\Andrey\source\repos\Deliveries.WebApi\Orders.Core\bin\Debug\netstandard2.0\Orders.Core.pdb
+C:\Users\Andrey\source\repos\Deliveries.WebApi\Orders.Core\bin\Debug\netstandard2.0\Orders.DB.dll
+C:\Users\Andrey\source\repos\Deliveries.WebApi\Orders.Core\bin\Debug\netstandard2.0\Orders.DB.pdb
+C:\Users\Andrey\source\repos\Deliveries.WebApi\Orders.Core\obj\Debug\netstandard2.0\Orders.Core.csprojAssemblyReference.cache
+C:\Users\Andrey\source\repos\Deliveries.WebApi\Orders.Core\obj\Debug\netstandard2.0\Orders.Core.AssemblyInfoInputs.cache
+C:\Users\Andrey\source\repos\Deliveries.WebApi\Orders.Core\obj\Debug\netstandard2.0\Orders.Core.AssemblyInfo.cs
+C:\Users\Andrey\source\repos\Deliveries.WebApi\Orders.Core\obj\Debug\netstandard2.0\Orders.Core.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\Deliveries.WebApi\Orders.Core\obj\Debug\netstandard2.0\Orders.Core.csproj.CopyComplete
+C:\Users\Andrey\source\repos\Deliveries.WebApi\Orders.Core\obj\Debug\netstandard2.0\Orders.Core.dll
+C:\Users\Andrey\source\repos\Deliveries.WebApi\Orders.Core\obj\Debug\netstandard2.0\Orders.Core.pdb

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "rQLtArjQzemkq3FaXN5NkgBrWRAlZe5Z56AXvze8h2Bfq+JZrwiplSHqQRStMu/mlE1vMEJvXa0BSksxHjo5ww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Andrey\\source\\repos\\Deliveries.WebApi\\Deliveries.DB\\Deliveries.DB.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Andrey\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Andrey\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

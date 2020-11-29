@@ -1,0 +1,9 @@
+C:\Users\Andrey\source\repos\Deliveries.WebApi\Orders.DB\bin\Debug\netstandard2.0\Orders.DB.deps.json
+C:\Users\Andrey\source\repos\Deliveries.WebApi\Orders.DB\bin\Debug\netstandard2.0\Orders.DB.dll
+C:\Users\Andrey\source\repos\Deliveries.WebApi\Orders.DB\bin\Debug\netstandard2.0\Orders.DB.pdb
+C:\Users\Andrey\source\repos\Deliveries.WebApi\Orders.DB\obj\Debug\netstandard2.0\Orders.DB.csprojAssemblyReference.cache
+C:\Users\Andrey\source\repos\Deliveries.WebApi\Orders.DB\obj\Debug\netstandard2.0\Orders.DB.AssemblyInfoInputs.cache
+C:\Users\Andrey\source\repos\Deliveries.WebApi\Orders.DB\obj\Debug\netstandard2.0\Orders.DB.AssemblyInfo.cs
+C:\Users\Andrey\source\repos\Deliveries.WebApi\Orders.DB\obj\Debug\netstandard2.0\Orders.DB.dll
+C:\Users\Andrey\source\repos\Deliveries.WebApi\Orders.DB\obj\Debug\netstandard2.0\Orders.DB.pdb
+C:\Users\Andrey\source\repos\Deliveries.WebApi\Orders.DB\obj\Debug\netstandard2.0\Orders.DB.csproj.CoreCompileInputs.cache

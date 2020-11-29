@@ -1,0 +1,14 @@
+C:\Users\Andrey\source\repos\Deliveries.WebApi\Orders.Presentation\bin\Debug\netstandard2.0\Orders.Presentation.deps.json
+C:\Users\Andrey\source\repos\Deliveries.WebApi\Orders.Presentation\bin\Debug\netstandard2.0\Orders.Presentation.dll
+C:\Users\Andrey\source\repos\Deliveries.WebApi\Orders.Presentation\bin\Debug\netstandard2.0\Orders.Presentation.pdb
+C:\Users\Andrey\source\repos\Deliveries.WebApi\Orders.Presentation\bin\Debug\netstandard2.0\Orders.Core.dll
+C:\Users\Andrey\source\repos\Deliveries.WebApi\Orders.Presentation\bin\Debug\netstandard2.0\Orders.DB.dll
+C:\Users\Andrey\source\repos\Deliveries.WebApi\Orders.Presentation\bin\Debug\netstandard2.0\Orders.Core.pdb
+C:\Users\Andrey\source\repos\Deliveries.WebApi\Orders.Presentation\bin\Debug\netstandard2.0\Orders.DB.pdb
+C:\Users\Andrey\source\repos\Deliveries.WebApi\Orders.Presentation\obj\Debug\netstandard2.0\Orders.Presentation.csprojAssemblyReference.cache
+C:\Users\Andrey\source\repos\Deliveries.WebApi\Orders.Presentation\obj\Debug\netstandard2.0\Orders.Presentation.AssemblyInfoInputs.cache
+C:\Users\Andrey\source\repos\Deliveries.WebApi\Orders.Presentation\obj\Debug\netstandard2.0\Orders.Presentation.AssemblyInfo.cs
+C:\Users\Andrey\source\repos\Deliveries.WebApi\Orders.Presentation\obj\Debug\netstandard2.0\Orders.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\Deliveries.WebApi\Orders.Presentation\obj\Debug\netstandard2.0\Orders.Presentation.csproj.CopyComplete
+C:\Users\Andrey\source\repos\Deliveries.WebApi\Orders.Presentation\obj\Debug\netstandard2.0\Orders.Presentation.dll
+C:\Users\Andrey\source\repos\Deliveries.WebApi\Orders.Presentation\obj\Debug\netstandard2.0\Orders.Presentation.pdb
